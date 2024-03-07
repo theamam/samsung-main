@@ -1,0 +1,50 @@
+* {
+  padding: 0px;
+  margin: 0px;
+  list-style: none;
+  text-decoration: none;
+  box-sizing: border-box;
+  font-family: samsung;
+}
+@font-face {
+  font-family: samsung;
+  src: url("/font/SamsungOne-700.ttf");
+}
+
+@font-face {
+  font-family: samsungsans;
+  src: url("/font/samsungsharpsans-bold.woff");
+}
+a {
+  color: black;
+}
+.new {
+  background-color: rgb(94, 179, 179);
+  color: aliceblue;
+  padding: 3px;
+  border-radius: 15px;
+  font-size: 10px;
+}
+.deal {
+  background-color: rgb(34, 187, 72);
+  color: aliceblue;
+  padding: 3px;
+  border-radius: 15px;
+  font-size: 10px;
+}
+.hot {
+  background-color: rgb(214, 23, 9);
+  color: aliceblue;
+  padding: 3px;
+  border-radius: 15px;
+  font-size: 10px;
+}
+.arrow {
+  width: 15px;
+}
+h2 {
+  cursor: default;
+}
+h3 {
+  cursor: default;
+}
